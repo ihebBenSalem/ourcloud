@@ -1,0 +1,74 @@
+#myheader{
+padding-top: 67px;
+
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+input {
+    display: block;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
+
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+}
+.fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+
+#mycolor{
+background-color: #FFF;
+
+}
+ #mymenu
+  {
+    background-color: #fff;
+  }
+
+
+
+  /* CSS used here will be applied after bootstrap.css */
+
+/* Create a medium height at 40px */
+.navbar-md {min-height:40px; }
+.navbar-md .navbar-brand,
+.navbar-md .navbar-nav>li>a {padding-top:20px; padding-bottom:10px ;}
+.navbar-md .navbar-brand {height: 60px}  
+.navbar-md .navbar-toggle {margin: 6px 12px 6px 0px; padding: 6px 7px 6px 7px; }
+.navbar-md .navbar-toggle .icon-bar {width: 19px; background-color: #3ca2e0}
+
+
+
+   
+    
