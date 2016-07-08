@@ -12,3 +12,4 @@ Note*:
 This project is runnable on Linux os (windows is not supported)
 -change the max_file_upload in /etc/phpmyadmin/config.inc.php,
 -change  max_allowed_packet=500M under /etc/my.cnf
+## Why did I start this project?
