@@ -15,8 +15,9 @@ Be social with this little community that helps you see feeds from the public an
 ![OURCLOUD-Profile](http://i.imgur.com/SBnzhb1.png)
 
 ## Adding files
-After your account is created now you are able to upload and store your files .any extension is supported .
-the user can delete and share the file through the link and generated token access
+After your account is created now you are able to upload and store your files .Any extension is supported .
+
+The user can delete and share the file through the link and generated token access
 ![Ourcloud-Upload](http://i.imgur.com/L3qkfph.png)
 
 ## Settings
