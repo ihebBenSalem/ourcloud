@@ -30,4 +30,4 @@ Change your username ,password,and upload your own picteur
 *MYSQL
 *php5
 ##How to install it
-please check the wiki guide of the project
+please check the wiki guide of the project (https://github.com/ihebBenSalem/ourcloud/wiki)
